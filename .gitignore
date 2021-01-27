@@ -1,0 +1,4 @@
+wordpress-v1/.terraform/**/*
+wordpress-v1/modules/.terraform/modules/modules.json
+wordpress-v1/modules/.terraform/plugins/selections.json
+wordpress-v1/modules/.terraform/plugins/**
